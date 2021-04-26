@@ -1,0 +1,10 @@
+# Rolf Bongou
+# Fun fact: I am a PSG fan
+
+print("R R R R     B B B B")
+print("R       R   B       B")
+print("R       R   B       B")
+print("R R R R     B B B B")
+print("R R         B       B")
+print("R     R     B       B")
+print("R       R   B B B B")
